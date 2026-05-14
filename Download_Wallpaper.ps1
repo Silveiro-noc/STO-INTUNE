@@ -1,6 +1,6 @@
 # Bloco do Plano de Fundo 
 # Defina a URL do blob e o caminho de destino - Wallpaper
-$blobUrl1 = "https://raw.githubusercontent.com/Silveiro-noc/STO-INTUNE/main/Wallpaper.jpg"
+$blobUrl1 = "https://github.com/user-attachments/assets/6d33106b-f683-4a4d-8b53-9b925327018d"
 $destinationPath1 = "C:\Wallpaper\Wallpaper.jpg"
 
 # Baixe a IMAGEM DO WALLPAPER do blob e salve no caminho de destino
